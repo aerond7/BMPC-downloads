@@ -1,3 +1,7 @@
 # BMPC-downloads
-This repository does not contain any code, it is inteded purely for releasing BMPC releases.
-[beemmc.boards.net](https://beemmc.boards.net/)
+This repository does not contain any code, it was intended purely for releasing BMPC releases prior to BMPC going open-source as of version 1.3.0.
+
+For latest versions, see the main BMPC repository or the BMPC website.
+
+[aerond7/beemod-music-package-creator]https://github.com/aerond7/beemod-music-package-creator
+[bmpc.aerond.dev](https://bmpc.aerond.dev/)
